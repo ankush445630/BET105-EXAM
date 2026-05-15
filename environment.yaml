@@ -1,0 +1,10 @@
+name: lln
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - snakemake-minimal>=7.32
+  - numpy
+  - pandas
+  - matplotlib
